@@ -8,9 +8,9 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/spandey112/SensibleStringSession/",
-  "success_url": "https://github.com/spandey112/SensibleStringSession/,
-  "website": "https://github.com/spandey112/SensibleStringSession/",
+  "repository": "https://github.com/spandey112/SensibleStringSession",
+  "success_url": "https://github.com/spandey112/SensibleStringSession,
+  "website": "https://github.com/spandey112/SensibleStringSession",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
